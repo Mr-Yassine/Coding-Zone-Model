@@ -4,4 +4,4 @@ Application web qui permet aux apprenants de passer des tests techniques en lign
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
-<img src="Quiz page.png" alt="mockup"/>
+<img src="Quiz-page.png" alt="mockup"/>
